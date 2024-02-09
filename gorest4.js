@@ -12,7 +12,7 @@ export const options = {
 export default function createUser(){
    let randomNumber = parseInt(Math.random()*999999)+1
 
-    const uri = "https://gorest.co.in/public/v2/users"
+    // const uri = "https://gorest.co.in/public/v2/users"
 
     const bearer = "309eb15e5d6341b7b345516c3229fd41b684ddfcf376b8ceabda8c9b9a2343e9"
 
